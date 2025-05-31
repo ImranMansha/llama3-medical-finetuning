@@ -37,7 +37,7 @@ This project demonstrates how to fine-tune the [LLaMA 3 (3B) Instruct model](htt
 
 - **Name:** Imran Mansha
 - **LinkedIn:** [[Your LinkedIn link here](https://www.linkedin.com/in/imranmansha/)]
-- **YouTube Walkthrough:** [[YouTube link here if uploaded](https://youtu.be/ogoe71cpUe4?si=rT-agQQK_QkZmBr2)]
+- **YouTube Walkthrough:** [[YouTube link here](https://youtu.be/ogoe71cpUe4?si=rT-agQQK_QkZmBr2)]
 
 ---
 
