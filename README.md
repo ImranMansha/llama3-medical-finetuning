@@ -8,7 +8,7 @@ This project demonstrates how to fine-tune the [LLaMA 3 (3B) Instruct model](htt
 - 🧠 Model: Meta-LLaMA 3 (3B) Instruct
 - 🛠️ Fine-Tuning: SFT with PEFT using Unsloth
 - 📊 Evaluation: ROUGE-L scores before and after fine-tuning
-- 🧪 Trained on: Google Colab
+- 🧪 Trained on: Kaggle Notebook
 
 ## 📁 Files
 
